@@ -1,6 +1,9 @@
 # Hey <img src="hand.gif" width="35"> I'm Serge!
 
-## 💻 My Tech Stack:
+
+### 💻 My Tech Stack:
+<hr></hr>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -13,10 +16,13 @@
 <img width="1000" src="github-snake.svg" alt="snake"/>
 
 
-## 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ceziy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ceziy01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceziy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 My GitHub Stats:
+<hr></hr>
 
----
+![](https://github-readme-stats.vercel.app/api?username=Ceziy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+#  
+![](https://nirzak-streak-stats.vercel.app/?user=Ceziy01&theme=dark&hide_border=false)<br/>
+#  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceziy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 
 [![](https://visitcount.itsvg.in/api?id=Ceziy01&icon=0&color=0)](https://visitcount.itsvg.in)
